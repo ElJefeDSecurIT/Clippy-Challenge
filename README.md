@@ -8,21 +8,27 @@ Welcome to the Cyper Clippy Contest!!
 Congratulations! you can let everyone know of your l33t skeels to decipher the secret start to the contest!
 
 
-## if you jave an Azure Sphere and are competing in the DEFCON30 Azre Sphere contest
-remember, not everything is as it appears, you'll have to dig a lil. here: 
+## if you have an Azure Sphere and competing in the DEFCON30 Azre Sphere contest
+remember, not everything is as it appears on its face, you might have to dig a lil. here: 
+<!-- we may or may not update comments on the fly as people progress -->
+This contest will test your skills of intuition and trivia, hacking and exploration! You will experience a hands-on series of puzzles hidden in an Altair 8800 emulator running on an Azure Sphere! You will learn about how to navigate around CP/M, playing with Azure Sphere sensors,  load and run programs, and compile old school BASIC code. 
+
 
 link to the Altair walkthru: 
 https://www.youtube.com/watch?v=uTBHzwm11xM 
 
+The web terminal creates a web socket to a web socket server that is running on the Azure Sphere. the Altair connects to the socket server and sends & receives messages via the terminal. the Altair emulator is running an open source 8080 CPU emulator, and that is running a version of the CP/M operating system.
+
 link to the terminal.
 http://aterminal.z8.web.core.windows.net  <!-- I'm sure you can figure out how to connect to your device's IP -->.
+
 
 We hope you enjoy this little Internet Odyssey Test (IOT, see what we did there?). 
 if you get stuck, and the clues on teh device, and these clues below don't help, reach out to us. we'll help nudge you along. 
 
 # clues:
 1. START ME UP!
-<!-- C 
+<!-- C: 
 C START
 RUN C start
 RUN START RUN
