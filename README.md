@@ -20,7 +20,7 @@ https://www.youtube.com/watch?v=uTBHzwm11xM
 The web terminal creates a web socket to a web socket server that is running on the Azure Sphere. the Altair connects to the socket server and sends & receives messages via the terminal. the Altair emulator is running an open source 8080 CPU emulator, and that is running a version of the CP/M operating system.
 
 link to the terminal.
-http:/defcon30/terminal  <!-- I'm sure you can figure out how to connect to your device's IP -->.
+https://aka.ms/defcon30/terminal  <!-- I'm sure you can figure out how to connect to your device's IP -->.
 
 
 We hope you enjoy this little Internet Odyssey Test (IOT, see what we did there?). 
